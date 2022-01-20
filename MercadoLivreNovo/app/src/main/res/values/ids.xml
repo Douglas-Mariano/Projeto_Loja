@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="quant" type="id" />
+    <item name="estado" type="id" />
+    <item name="texto" type="id" />
+</resources>
